@@ -1,5 +1,9 @@
 # data-science-fundamental
+read this ~
 
-#hydedata preprocessing
+#1. combine hydedata
+#2. data preliminary analysis
+#3. data preprocessing
 
-read this~
+Deadline: 10th March 2017
+
